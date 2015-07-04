@@ -10,8 +10,9 @@ namespace GitConsoleApp
     {
         static void Main(string[] args)
         {
-            //This is the Master Branch
+            //This is code from the Work Branch: Need to branch this back
             string name = "Peter";
+            int counter = 0;
         }
     }
 }
