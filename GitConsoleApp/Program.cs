@@ -11,6 +11,7 @@ namespace GitConsoleApp
         static void Main(string[] args)
         {
             string name = "I am the MasterBranch";
+            string addedName = "From Terst";
         }
     }
 }
