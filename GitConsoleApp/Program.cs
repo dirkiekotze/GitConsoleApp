@@ -10,7 +10,8 @@ namespace GitConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.log("Started");
+            //This is the Master Branch
+            string name = "Peter";
         }
     }
 }
