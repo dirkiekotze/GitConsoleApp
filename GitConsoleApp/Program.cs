@@ -11,7 +11,13 @@ namespace GitConsoleApp
         static void Main(string[] args)
         {
             string name = "I am the MasterBranch";
+            SomeFunctionInError(name);
             
+        }
+
+        private static void SomeFunctionInError(string name)
+        {
+            throw new NotImplementedException();
         }
     }
 }
