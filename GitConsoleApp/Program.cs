@@ -17,7 +17,8 @@ namespace GitConsoleApp
 
         private static void SomeFunctionInError(string name)
         {
-            throw new NotImplementedException();
+            //You better do something here;
+            int val = 1 = 1;
         }
     }
 }
