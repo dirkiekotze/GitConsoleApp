@@ -12,6 +12,7 @@ namespace GitConsoleApp
         {
             string name = "I am the MasterBranch";
             string addedName = "From Terst";
+            string anotherString = "From Test";
         }
     }
 }
